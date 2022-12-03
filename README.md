@@ -1,2 +1,2 @@
-# Heart-Disease-Prediction
+# Application of Classification Algorithm to solve the Problem
 Yes, using Machine Learning you can Predict whether you are having heart disease or not...
